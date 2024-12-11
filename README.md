@@ -3,6 +3,8 @@ This a repository of the code for the CycleGAN, which transforms photos to monet
 
 Dataset used taken from the kaggle challenge of: https://www.kaggle.com/competitions/gan-getting-started/overview
 
+Two versions of the model have been updated one a version using Gen_G, other with Gen F
+
 Presently, we have trained the model and were able to make predictions from the saved model as seen in the images.
 
 More details about the project will be explained in a blog. Bound to making changes based on the feedback.
