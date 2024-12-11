@@ -10,4 +10,5 @@ Presently, we have trained the model and were able to make predictions from the 
 More details about the project will be explained in a blog. Bound to making changes based on the feedback.
 
 ![input_img](https://github.com/user-attachments/assets/56d11b78-5356-4086-8c65-f12699ce4914) 
-![generated_img](https://github.com/user-attachments/assets/bc975db4-c122-4d52-9031-b50250a89ed7)
+![image](https://github.com/user-attachments/assets/81975bb0-c7dc-4438-9d69-cd43a035e381)
+
