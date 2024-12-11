@@ -1,14 +1,19 @@
-# I-m-something-of-a-painter
-This a repository of the code for the CycleGAN, which transforms photos to monet images
+# I-m-something-of-a-painter.
+
+This repository contains the code for implementing a CycleGAN using UNet as generator and PatchGAN as discriminator.
 
 Dataset used taken from the kaggle challenge of: https://www.kaggle.com/competitions/gan-getting-started/overview
 
-Two versions of the model have been updated one a version using Gen_G, other with Gen F
+We were ranked 106 in the competetion with a MiFD score as shown below:
 
-Presently, we have trained the model and were able to make predictions from the saved model as seen in the images.
+<img width="1165" alt="Screenshot 2024-12-11 at 6 52 08 PM" src="https://github.com/user-attachments/assets/1b430e9f-a1a2-47f5-8c0b-fca8b4c650ca" />
 
-More details about the project will be explained in a blog. Bound to making changes based on the feedback.
 
-![input_img](https://github.com/user-attachments/assets/56d11b78-5356-4086-8c65-f12699ce4914) 
-![image](https://github.com/user-attachments/assets/81975bb0-c7dc-4438-9d69-cd43a035e381)
+
+
+More details about the project will be explained in a blog:
+
+
+Results:
+
 
