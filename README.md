@@ -14,6 +14,7 @@ We were ranked 106 in the competetion with a MiFD score as shown below:
 
 More details about the project will be explained in a blog:
 
+Some of the images from the results generated from the model that were stored in the images.zip files are added to the repo for additional reference.
 
 Results after training the model:
 
