@@ -22,3 +22,5 @@ Results after training the model:
 
 
 ![image](https://github.com/user-attachments/assets/29d2e712-c099-401b-b142-cfc54eb3c4c3)
+
+![image](https://github.com/user-attachments/assets/8d07b042-6130-4f2f-94b7-fd9ea0e7daf0)
