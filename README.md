@@ -4,6 +4,8 @@ This repository contains the code for implementing a CycleGAN using UNet as gene
 
 Dataset used taken from the kaggle challenge of: https://www.kaggle.com/competitions/gan-getting-started/overview
 
+Kaggle Competetion Code notebook: https://www.kaggle.com/code/harshininaidu/cv-final-project?scriptVersionId=212788165
+
 We were ranked 93 in the competetion with a MiFD score as shown below:
 
 <img width="1234" alt="Screenshot 2024-12-12 at 10 52 19 PM" src="https://github.com/user-attachments/assets/740a65c0-c7b3-40cd-9600-792bf1f36d7d" />
