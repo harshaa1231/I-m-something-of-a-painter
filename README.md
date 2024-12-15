@@ -6,6 +6,8 @@ Dataset used taken from the kaggle challenge of: https://www.kaggle.com/competit
 
 Kaggle Competetion Code notebook: https://www.kaggle.com/code/harshininaidu/cv-final-project?scriptVersionId=212788165
 
+To be able to implement this model from scratch or want to understand it in detail please check: https://medium.com/@hv6700030/ganvas-painting-photos-in-monets-style-49d8ffc17381
+
 We were ranked 93 in the competetion with a MiFD score as shown below:
 
 <img width="1234" alt="Screenshot 2024-12-12 at 10 52 19 PM" src="https://github.com/user-attachments/assets/740a65c0-c7b3-40cd-9600-792bf1f36d7d" />
